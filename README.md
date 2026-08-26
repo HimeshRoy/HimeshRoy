@@ -1,4 +1,10 @@
-<h1 align="center">Hey 👋 I'm Himesh Roy</h1>
+<p align="center">
+  <img
+    src="./assets/pacman-header.gif"
+    alt="Pac-Man animation"
+    width="900"
+  />
+</p>
 
 <p align="center">
   Full Stack Developer • AI Enthusiast • Builder

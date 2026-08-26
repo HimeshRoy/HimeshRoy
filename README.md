@@ -10,6 +10,22 @@
   <a href="https://www.linkedin.com/in/himeshroy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/HimeshRoy/HimeshRoy/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/HimeshRoy/HimeshRoy/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/HimeshRoy/HimeshRoy/output/pacman-contribution-graph.svg"
+      alt="Pac-Man contribution graph"
+    />
+  </picture>
+</p>
   
 ## 👨‍💻 About Me
 
